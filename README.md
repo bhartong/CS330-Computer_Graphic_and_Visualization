@@ -17,6 +17,7 @@ Iteration factored into my development when each new topic was introduced. Throu
 My approach to developing code evolved throughout the milestones from how I was creating each of the primitive shapes. At first I was creating a different function for each part of the objects. As the code for each of the objects got more complex and as I reached a larger number of objects in the scene, I knew I would need to rewrite the functions to be more generic and be able to be used for all the shapes of the same type.
 
 <h2><b>How can computer science help me in reaching my goals?</b></h2>
-<h3>How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-  How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?</h3>
+<h3>How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?</br>
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?</h3>
+
 Knowledge of computational graphics and visualizations will help me in my future educational and professional pathways by giving me the knowledge of how 3D shapes are mathematically designed. This knowledge will help when tyring to create 3D applications by assiting with how to lay out and create complex shapes for the scene.
